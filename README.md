@@ -1,6 +1,6 @@
 # Caesar Cipher Encryptor
 
-## Project Overview
+## Overview
 
 This is a simple encryption and decryption program using the Caesar Cipher method. The program allows users to encrypt or decrypt text files using a fixed shift of 16 characters in the alphabet. After encryption or decryption, the program can optionally delete the original file, keeping only the processed version (encrypted or decrypted).
 
