@@ -14,8 +14,8 @@ This is a C++ encryption and decryption program using the Caesar Cipher method. 
 
 ## Requirements
 
-- C++17 or higher.
-- A C++ compiler such as GCC or Clang.
+- C++17 or higher
+- A C++ compiler such as GCC or Clang
 
 ## How to Install and Run the Program
 
