@@ -45,4 +45,4 @@ After running the executable, you will be prompted to enter a file name, as well
 
 The program will also check if there is already a file with the same name as the resultant file in the current directory whenever performing encryption/decryption. It will prompt the user asking if they want to overwrite the existing file or not. If not, it will generate a unique file name for the resultant file.
 
-Lastly, the program will ask if you want to delete the original file that was inputted by the user and only keep the encrypted/decrypted version.
+Lastly, the program will ask if you want to delete the original file that was inputted and only keep the encrypted/decrypted version.
