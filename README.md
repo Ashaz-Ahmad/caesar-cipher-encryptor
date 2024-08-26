@@ -17,7 +17,7 @@ This is a simple encryption and decryption program using the Caesar Cipher metho
 - C++17 or higher.
 - A C++ compiler such as GCC or Clang.
 
-## How to Build
+## How to Install and Run the Program
 
 1. **Clone the repository**:
    ```bash
