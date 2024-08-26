@@ -6,7 +6,7 @@ This is a simple C++ encryption and decryption program using the Caesar Cipher m
 
 ## Features
 
-- Encrypts text files using Caesar Cipher with a shift of 16 characters
+- Encrypts text files using a Caesar Cipher with a shift of 16 characters
 - Decrypts previously encrypted text files
 - Generates unique filenames for encrypted or decrypted files if the user does not wish to overwrite existing files
 - Optionally deletes the original file after encryption or decryption
